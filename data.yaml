@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 20
+names: ['Banana', 'Basil Rice', 'Bualoy', 'Chicken Rice', 'Crispy Pork Kale', 'Green Curry', 'Grilled Chicken', 'Homok', 'Joke', 'Khao kha moo', 'Laab', 'Laadna', 'Namprig', 'Omelette', 'Padthai', 'Papaya Salad', 'Pork Satay', 'Rice', 'Sukee', 'Tom Yum']
